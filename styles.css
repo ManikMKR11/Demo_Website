@@ -1,0 +1,43 @@
+/* Style for the body */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+/* Style for the header */
+h1 {
+    color: #333;
+    background-color: #ffcc00;
+    padding: 20px;
+}
+
+/* Style for headings */
+h2 {
+    color: #333;
+}
+
+/* Style for the poem */
+p {
+    font-size: 18px;
+    color: #666;
+    margin: 20px;
+}
+
+/* Style for the channels list */
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    font-size: 16px;
+    margin: 10px;
+}
+
+a {
+    color: #0077b6;
+    text-decoration: none;
+}
