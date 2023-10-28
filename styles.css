@@ -41,3 +41,9 @@ a {
     color: #0077b6;
     text-decoration: none;
 }
+
+/* Style for the new links */
+a[href*="/@RanaUniverse123"], a[href*="/RanaUniversePage"] {
+    color: #ff5733; /* Change the color for the new links */
+    font-weight: bold; /* Make the new links bold */
+}
